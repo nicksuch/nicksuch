@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with local (KY, USA) and remote-friendly **junior developer jobs, with great mentorship**
 - 💬 Ask me about Aquinas, bicycles, vegetable gardening, or Jekyll / JAMstack
 - 📫 How to reach me: learn@awesomeinc.org
-- ⚡ Fun fact: I once accidentally bought a $1000 t-shirt, and I don't regret it.
+- ⚡ Fun fact: I once accidentally spent $1000 for a t-shirt, but I don't regret it.
